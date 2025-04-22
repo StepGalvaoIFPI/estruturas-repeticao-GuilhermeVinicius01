@@ -17,5 +17,5 @@ public class q2 {
             double salario_final = (total + salario);
             System.out.println("Aumento: " +total);
             System.out.println("Salario Final: " +salario_final);}
-        }
     }
+}
